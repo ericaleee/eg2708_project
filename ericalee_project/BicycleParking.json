@@ -1,0 +1,45 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#BicycleParkingv2",
+    "value": [
+        {
+            "Description": "Cashew MRT A",
+            "Latitude": 1.369924301878832,
+            "Longitude": 103.76460884309661,
+            "RackType": "Racks_MRT",
+            "RackCount": 62,
+            "ShelterIndicator": "N"
+        },
+        {
+            "Description": "Chestnut Terrace Park",
+            "Latitude": 1.3678652377044633,
+            "Longitude": 103.76884530524208,
+            "RackType": "Yellow Box",
+            "RackCount": 10,
+            "ShelterIndicator": "N"
+        },
+        {
+            "Description": "Cashew Link Playground",
+            "Latitude": 1.3716345399232674,
+            "Longitude": 103.7691704912711,
+            "RackType": "Yellow Box",
+            "RackCount": 10,
+            "ShelterIndicator": "N"
+        },
+        {
+            "Description": "Gombak Drive",
+            "Latitude": 1.3713367767573736,
+            "Longitude": 103.76319719857457,
+            "RackType": "Yellow Box",
+            "RackCount": 10,
+            "ShelterIndicator": "N"
+        },
+        {
+            "Description": "Bus Stop 43089",
+            "Latitude": 1.3670491125923627,
+            "Longitude": 103.7663349500944,
+            "RackType": "Yellow Box",
+            "RackCount": 10,
+            "ShelterIndicator": "N"
+        }
+    ]
+}
