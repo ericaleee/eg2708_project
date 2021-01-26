@@ -1,0 +1,41 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#TaxiAvailability",
+    "value": [
+        {
+            "Longitude": 103.92811,
+            "Latitude": 1.32346
+        },
+        {
+            "Longitude": 103.90274,
+            "Latitude": 1.40491
+        },
+        {
+            "Longitude": 103.76501,
+            "Latitude": 1.38132
+        },
+        {
+            "Longitude": 103.97405,
+            "Latitude": 1.32823
+        },
+        {
+            "Longitude": 103.8815,
+            "Latitude": 1.329
+        },
+        {
+            "Longitude": 103.86362,
+            "Latitude": 1.30592
+        },
+        {
+            "Longitude": 103.98853,
+            "Latitude": 1.35785
+        },
+        {
+            "Longitude": 103.72327,
+            "Latitude": 1.34965
+        },
+        {
+            "Longitude": 103.95834,
+            "Latitude": 1.3578
+        }
+    ]
+}
