@@ -1,0 +1,159 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xml:base="http://datamall2.mytransport.sg/ltaodataservice">
+    <id>http://schemas.datacontract.org/2004/07/</id>
+    <title />
+    <updated>2018-3-15T22:24:26Z</updated>
+    <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability" />
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()</id>
+        <category term="DataMall2.Models.TaxiETA.LocationInfo" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <title />
+        <updated>2018-3-15T22:24:26Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Longitude m:type="Edm.Double">103.939541333333</d:Longitude>
+                <d:Latitude m:type="Edm.Double">1.35015283333333</d:Latitude>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()</id>
+        <category term="DataMall2.Models.TaxiETA.LocationInfo" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <title />
+        <updated>2018-3-15T22:24:26Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Longitude m:type="Edm.Double">103.954019666667</d:Longitude>
+                <d:Latitude m:type="Edm.Double">1.35467383333333</d:Latitude>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()</id>
+        <category term="DataMall2.Models.TaxiETA.LocationInfo" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <title />
+        <updated>2018-3-15T22:24:26Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Longitude m:type="Edm.Double">103.8754865</d:Longitude>
+                <d:Latitude m:type="Edm.Double">1.37463416666667</d:Latitude>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()</id>
+        <category term="DataMall2.Models.TaxiETA.LocationInfo" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <title />
+        <updated>2018-3-15T22:24:26Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Longitude m:type="Edm.Double">103.989342833333</d:Longitude>
+                <d:Latitude m:type="Edm.Double">1.35805783333333</d:Latitude>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()</id>
+        <category term="DataMall2.Models.TaxiETA.LocationInfo" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <title />
+        <updated>2018-3-15T22:24:26Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Longitude m:type="Edm.Double">103.980369666667</d:Longitude>
+                <d:Latitude m:type="Edm.Double">1.33778</d:Latitude>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()</id>
+        <category term="DataMall2.Models.TaxiETA.LocationInfo" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <title />
+        <updated>2018-3-15T22:24:26Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Longitude m:type="Edm.Double">103.890042666667</d:Longitude>
+                <d:Latitude m:type="Edm.Double">1.35323166666667</d:Latitude>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()</id>
+        <category term="DataMall2.Models.TaxiETA.LocationInfo" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <title />
+        <updated>2018-3-15T22:24:26Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Longitude m:type="Edm.Double">103.9252</d:Longitude>
+                <d:Latitude m:type="Edm.Double">1.325274</d:Latitude>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()</id>
+        <category term="DataMall2.Models.TaxiETA.LocationInfo" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <title />
+        <updated>2018-3-15T22:24:26Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Longitude m:type="Edm.Double">103.832632333333</d:Longitude>
+                <d:Latitude m:type="Edm.Double">1.4238455</d:Latitude>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()</id>
+        <category term="DataMall2.Models.TaxiETA.LocationInfo" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TaxiAvailability()" />
+        <title />
+        <updated>2018-3-15T22:24:26Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Longitude m:type="Edm.Double">103.8086</d:Longitude>
+                <d:Latitude m:type="Edm.Double">1.275047</d:Latitude>
+            </m:properties>
+        </content>
+    </entry>
+</feed>
