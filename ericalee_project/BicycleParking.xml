@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entry xml:base="http://datamall2.mytransport.sg/ltaodataservice" xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+    <id>http://schemas.datacontract.org/2004/07/</id>
+    <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/BicycleParkingv2()" />
+    <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/BicycleParkingv2()" />
+    <title />
+    <author>
+        <name />
+    </author>
+    <content type="application/xml">
+        <m:properties>
+            <d:element>
+                <d:Description>Bus Stop 43267</d:Description>
+                <d:Latitude>1.3613050646154738</d:Latitude>
+                <d:Longitude>103.76454955418998</d:Longitude>
+                <d:RackType>Yellow Box</d:RackType>
+                <d:RackCount>10</d:RackCount>
+                <d:ShelterIndicator>N</d:ShelterIndicator>
+            </d:element>
+            <d:element>
+                <d:Description>Bus Stop 43279</d:Description>
+                <d:Latitude>1.362062717524017</d:Latitude>
+                <d:Longitude>103.76580641931638</d:Longitude>
+                <d:RackType>Yellow Box</d:RackType>
+                <d:RackCount>6</d:RackCount>
+                <d:ShelterIndicator>N</d:ShelterIndicator>
+            </d:element>
+            <d:element>
+                <d:Description>Bus Stop 43069</d:Description>
+                <d:Latitude>1.3626575287153109</d:Latitude>
+                <d:Longitude>103.76773478217444</d:Longitude>
+                <d:RackType>Yellow Box</d:RackType>
+                <d:RackCount>10</d:RackCount>
+                <d:ShelterIndicator>N</d:ShelterIndicator>
+            </d:element>
+            <d:element>
+                <d:Description>Hillview MRT A1</d:Description>
+                <d:Latitude>1.3626186591909368</d:Latitude>
+                <d:Longitude>103.76776220436038</d:Longitude>
+                <d:RackType>Racks</d:RackType>
+                <d:RackCount>28</d:RackCount>
+                <d:ShelterIndicator>N</d:ShelterIndicator>
+            </d:element>
+            <d:element>
+                <d:Description>Hillview MRT A2</d:Description>
+                <d:Latitude>1.362592423963918</d:Latitude>
+                <d:Longitude>103.76774656508431</d:Longitude>
+                <d:RackType>Racks</d:RackType>
+                <d:RackCount>26</d:RackCount>
+                <d:ShelterIndicator>N</d:ShelterIndicator>
+            </d:element>
+            <d:element>
+                <d:Description>Hillview MRT A3</d:Description>
+                <d:Latitude>1.3627524590184106</d:Latitude>
+                <d:Longitude>103.7678482206681</d:Longitude>
+                <d:RackType>Racks</d:RackType>
+                <d:RackCount>38</d:RackCount>
+                <d:ShelterIndicator>N</d:ShelterIndicator>
+            </d:element>
+            <d:element>
+                <d:Description>Hillview MRT B1</d:Description>
+                <d:Latitude>1.362172649033306</d:Latitude>
+                <d:Longitude>103.76708709050038</d:Longitude>
+                <d:RackType>Racks</d:RackType>
+                <d:RackCount>78</d:RackCount>
+                <d:ShelterIndicator>N</d:ShelterIndicator>
+            </d:element>
+            <d:element>
+                <d:Description>Hillview MRT B2</d:Description>
+                <d:Latitude>1.3622408597252342</d:Latitude>
+                <d:Longitude>103.76709490862903</d:Longitude>
+                <d:RackType>Racks</d:RackType>
+                <d:RackCount>26</d:RackCount>
+                <d:ShelterIndicator>N</d:ShelterIndicator>
+            </d:element>
+            <d:element>
+                <d:Description>Dairy Farm Crescent</d:Description>
+                <d:Latitude>1.3641683274965215</d:Latitude>
+                <d:Longitude>103.76827550436883</d:Longitude>
+                <d:RackType>Yellow Box</d:RackType>
+                <d:RackCount>10</d:RackCount>
+                <d:ShelterIndicator>N</d:ShelterIndicator>
+            </d:element>
+            <d:element>
+                <d:Description>Chestnut Terrace Park</d:Description>
+                <d:Latitude>1.3678652377044633</d:Latitude>
+                <d:Longitude>103.76884530524208</d:Longitude>
+                <d:RackType>Yellow Box</d:RackType>
+                <d:RackCount>10</d:RackCount>
+                <d:ShelterIndicator>N</d:ShelterIndicator>
+            </d:element>
+        </m:properties>
+    </content>
+</entry>
