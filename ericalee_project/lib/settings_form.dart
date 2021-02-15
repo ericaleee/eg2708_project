@@ -27,6 +27,7 @@ class _SettingsFormState extends State<SettingsForm> {
     builder: (context, snapshot){
       if(snapshot.hasData){
 
+      // ignore: omit_local_variable_types
       UserData userData = snapshot.data;
 
       return Form(
@@ -60,8 +61,8 @@ class _SettingsFormState extends State<SettingsForm> {
             onPressed: () async {
               if(_formKey.currentState.validate()){
                 await DatabaseService(uid: user.uid).updateUserData(
-                  _currentName ?? userData.name,
-                  _currentEmail ?? userData.email
+                  _currentName ?? userData.email,
+                  _currentEmail ?? userData.name
                 );
                 Navigator.pop(context);
               }
