@@ -48,7 +48,7 @@ class MyDrawer extends StatelessWidget {
                       color: Colors.black)
                     ),
                     SizedBox(height: 3),
-                    Text('erica@gmail.com',
+                    Text('ericalee@gmail.com',
                     style: TextStyle(
                       fontSize: 15,
                       color: Colors.black,
