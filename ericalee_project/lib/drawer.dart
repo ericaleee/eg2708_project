@@ -1,9 +1,14 @@
 import 'package:flutter/material.dart';
 import 'main.dart';
+import 'auth.dart';
+import 'authentication.dart';
 
 class MyDrawer extends StatelessWidget {
   final Function onTap;
+  // ignore: sort_constructors_first
   MyDrawer({this.onTap});
+
+  final AuthService _auth = AuthService();
 
   @override 
   Widget build(BuildContext context){
@@ -35,7 +40,7 @@ class MyDrawer extends StatelessWidget {
                       ),))
                     ),
                     SizedBox(height: 15,),
-                    Text('Super Hero',
+                    Text('Erica Lee',
                     style: TextStyle(
                       fontFamily: 'MommyLemon',
                       fontSize: 22,
@@ -43,7 +48,7 @@ class MyDrawer extends StatelessWidget {
                       color: Colors.black)
                     ),
                     SizedBox(height: 3),
-                    Text('super_hero@nyp.edu.sg',
+                    Text('erica@gmail.com',
                     style: TextStyle(
                       fontSize: 15,
                       color: Colors.black,
@@ -71,7 +76,9 @@ class MyDrawer extends StatelessWidget {
             ListTile( 
               leading: Icon(Icons.exit_to_app),
               title: Text('Logout'),
-              onTap: () { Navigator.push(context, MaterialPageRoute(builder: (context)=>MyApp()));},
+              onTap: () async { 
+               await _auth.signOut();
+              },
             ),
           ],
         )
