@@ -1,5 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'user.dart';
+import 'database.dart';
 
 class AuthService {
   final FirebaseAuth _auth = FirebaseAuth.instance;
@@ -50,10 +51,11 @@ class AuthService {
   Future registerWithEmailandPassword( String email, String password)
   async{
     try{
-      // ignore: omit_local_variable_types
+      
       AuthResult result = await _auth.createUserWithEmailAndPassword(email: email, password: password);
-      // ignore: omit_local_variable_types
       FirebaseUser user = result.user;
+      // create a new document for the user with the uid
+      await DatabaseService(uid: user.uid).updateUserData('name', 'email');
       return _userFromFirebaseUser(user);
     } catch(e){
       print(e.toString());
