@@ -12,9 +12,11 @@ class User {
 }
 
 class UserData{
+
+  final String uid;
   final String email;
   final String name;
-  final String uid;
+
 
 
   UserData({ this.uid, this.email, this.name});
