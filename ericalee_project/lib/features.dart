@@ -20,7 +20,7 @@ class Features extends StatelessWidget {
          appBar: AppBar(
            bottom: TabBar(tabs: [
              Tab(icon: Icon(Icons.local_taxi, color:Colors.yellowAccent,)),
-              Tab(icon: Icon(Icons.directions_bike, color:Colors.greenAccent,)),
+              Tab(icon: Icon(Icons.map, color:Colors.greenAccent,)),
                Tab(icon: Icon(Icons.thermostat_outlined, color: Colors.redAccent)),
            ],
      ),
