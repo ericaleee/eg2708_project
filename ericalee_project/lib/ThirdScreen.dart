@@ -18,10 +18,10 @@ class ThirdScreen extends StatelessWidget {
                   children: <Widget>[
                     Text('Singapore', style: new TextStyle(color: Colors.white)),
                     Text('Sunny', style: new TextStyle(color: Colors.white, fontSize: 32.0)),
-                    Text('32°C',  style: new TextStyle(color: Colors.white)),
+                    Text('30°C',  style: new TextStyle(color: Colors.white)),
                     Image.network('https://openweathermap.org/img/w/01d.png'),
-                    Text('Feb 9, 2021', style: new TextStyle(color: Colors.white)),
-                    Text('10:22', style: new TextStyle(color: Colors.white)),
+                    Text('Feb 16, 2021', style: new TextStyle(color: Colors.white)),
+                    Text('09:40', style: new TextStyle(color: Colors.white)),
                   ],
                 ),
               ),
