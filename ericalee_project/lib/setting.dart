@@ -68,8 +68,8 @@ var contentBody =
 Center(child: Column(
   mainAxisAlignment: MainAxisAlignment.center,
   children: <Widget>[
-    MyCustomWidget('Taxi Availability'),
-    MyCustomWidget('Bicycle Parking'),
+    MyCustomWidget('Taxi Fares'),
+    MyCustomWidget('Google Map'),
     MyCustomWidget('Weather Forecast'),
   ]
 ),
