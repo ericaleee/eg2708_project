@@ -21,7 +21,7 @@ class ThirdScreen extends StatelessWidget {
                     Text('30°C',  style: new TextStyle(color: Colors.white)),
                     Image.network('https://openweathermap.org/img/w/01d.png'),
                     Text('Feb 16, 2021', style: new TextStyle(color: Colors.white)),
-                    Text('09:40', style: new TextStyle(color: Colors.white)),
+                    Text('09:52', style: new TextStyle(color: Colors.white)),
                   ],
                 ),
               ),
