@@ -11,6 +11,8 @@ import 'settings_form.dart';
 
 
 
+
+
 class Profile extends StatelessWidget {
   final AuthService _auth = AuthService();
 
@@ -39,8 +41,6 @@ class Profile extends StatelessWidget {
                onPressed: () => _showSettingsPanel(),
              )]
             ),
-       
-     
       body: UserList(),
      
    ));
