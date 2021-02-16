@@ -19,8 +19,8 @@ class DatabaseService{
   List<User> _userListFromSnapshot(QuerySnapshot snapshot){
     return snapshot.documents.map((doc){
       return User( 
+        name: doc.data['name'] ?? '',
         email: doc.data['email'] ?? '',
-        name: doc.data['name'] ?? ''
       );
     }).toList();
   }
